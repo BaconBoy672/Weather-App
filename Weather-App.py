@@ -1,4 +1,5 @@
 ### Hit "Download Raw File", then run it on PyCharm or VSCode for best results!
+### Make sure to download the requests library using 'pip install requests'
 import os
 import sys
 import requests
